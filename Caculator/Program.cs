@@ -39,7 +39,7 @@ namespace Caculator
                 input_a = Console.ReadLine();
                 a = int.Parse(input_a); // string 숫자를 int변수에 맞게 변환시켜줌
 
-                //input_ㅠ라는 string변수에 값을 입력 받음
+                //input_b라는 string변수에 값을 입력 받음
                 Console.WriteLine("\n\nB값을 입력해주세요:");
                 input_b = Console.ReadLine();
                 b = int.Parse(input_b); // string 숫자를 int변수에 맞게 변환시켜줌

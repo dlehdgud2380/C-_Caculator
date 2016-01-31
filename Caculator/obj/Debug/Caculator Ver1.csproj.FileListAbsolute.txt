@@ -1,0 +1,15 @@
+C:\Users\Scoutlee\Documents\Visual Studio 2015\Projects\Caculator Ver1\Caculator Ver1\bin\Debug\Caculator Ver1.exe.config
+C:\Users\Scoutlee\Documents\Visual Studio 2015\Projects\Caculator Ver1\Caculator Ver1\bin\Debug\Caculator Ver1.exe
+C:\Users\Scoutlee\Documents\Visual Studio 2015\Projects\Caculator Ver1\Caculator Ver1\bin\Debug\Caculator Ver1.pdb
+C:\Users\Scoutlee\Documents\Visual Studio 2015\Projects\Caculator Ver1\Caculator Ver1\obj\Debug\Caculator Ver1.exe
+C:\Users\Scoutlee\Documents\Visual Studio 2015\Projects\Caculator Ver1\Caculator Ver1\obj\Debug\Caculator Ver1.pdb
+C:\Users\Scoutlee\Documents\Visual Studio 2015\Projects\Caculator Ver1\Caculator Ver1\obj\Debug\Caculator Ver1.csprojResolveAssemblyReference.cache
+C:\Users\dlehd\Desktop\Caculator Ver1\Caculator Ver1\bin\Debug\Caculator Ver1.exe.config
+C:\Users\dlehd\Desktop\Caculator Ver1\Caculator Ver1\obj\Debug\Caculator Ver1.exe
+C:\Users\dlehd\Desktop\Caculator Ver1\Caculator Ver1\obj\Debug\Caculator Ver1.pdb
+C:\Users\dlehd\Desktop\Caculator Ver1\Caculator Ver1\bin\Debug\Caculator Ver1.exe
+C:\Users\dlehd\Desktop\Caculator Ver1\Caculator Ver1\bin\Debug\Caculator Ver1.pdb
+C:\Users\dlehd\Desktop\Caculator Ver1\Caculator Ver1\obj\Debug\Caculator Ver1.csprojResolveAssemblyReference.cache
+C:\Users\dlehd\Desktop\Github\C_sharp_caculator\Caculator Ver1\bin\Debug\Caculator Ver1.exe.config
+C:\Users\dlehd\Desktop\Github\C_sharp_caculator\Caculator Ver1\obj\Debug\Caculator Ver1.exe
+C:\Users\dlehd\Desktop\Github\C_sharp_caculator\Caculator Ver1\obj\Debug\Caculator Ver1.pdb

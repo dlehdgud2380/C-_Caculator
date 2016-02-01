@@ -1,6 +1,0 @@
-C:\Users\dlehd\Desktop\Github\C_sharp_caculator\Caculator\bin\Debug\Caculator Ver1.exe.config
-C:\Users\dlehd\Desktop\Github\C_sharp_caculator\Caculator\obj\Debug\Caculator Ver1.exe
-C:\Users\dlehd\Desktop\Github\C_sharp_caculator\Caculator\obj\Debug\Caculator Ver1.pdb
-C:\Users\Scoutlee\Desktop\Github\C_sharp_caculator\Caculator\bin\Debug\Caculator Ver1.exe.config
-C:\Users\Scoutlee\Desktop\Github\C_sharp_caculator\Caculator\obj\Debug\Caculator Ver1.exe
-C:\Users\Scoutlee\Desktop\Github\C_sharp_caculator\Caculator\obj\Debug\Caculator Ver1.pdb

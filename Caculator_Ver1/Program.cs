@@ -92,7 +92,7 @@ namespace Caculator_Ver1
                             break;
                     }
 
-                //계산을 계속 할 것인지 어플리케이션을 종료할 것인지 변수를 입력
+                //계산을 계속 할 것인지 어플리케이션을 종료할 것인지 변수입력
                 Console.WriteLine("\n\n새로 계산 하시겠습니까? 계속하려면 (y) 종료하려면 아무키나 누르시요. ");
                 caculator_power_method = Console.ReadLine();
 

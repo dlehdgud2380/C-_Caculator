@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
+# Visual Studio Express 14 for Windows Desktop
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator", "Caculator\Caculator.csproj", "{C79967CE-6849-483E-AC62-DFB1832B8814}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator_Ver1", "Caculator_Ver1\Caculator_Ver1.csproj", "{C79967CE-6849-483E-AC62-DFB1832B8814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caculator_Ver2", "Caculator_Ver2\Caculator_Ver2.csproj", "{A6DA8E16-2BD7-4D3E-9CF4-CB1CD35CC16E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{C79967CE-6849-483E-AC62-DFB1832B8814}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C79967CE-6849-483E-AC62-DFB1832B8814}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C79967CE-6849-483E-AC62-DFB1832B8814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6DA8E16-2BD7-4D3E-9CF4-CB1CD35CC16E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6DA8E16-2BD7-4D3E-9CF4-CB1CD35CC16E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6DA8E16-2BD7-4D3E-9CF4-CB1CD35CC16E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6DA8E16-2BD7-4D3E-9CF4-CB1CD35CC16E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
